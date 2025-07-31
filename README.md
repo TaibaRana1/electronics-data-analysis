@@ -46,10 +46,5 @@ This project aims to analyze the declining sales and non-recurring customer tren
 - **Models**: Linear regression, decision tree classifier, and K-means clustering (code not included).
 ---
 
-## Contributors
-- Team Members: 231-2622, 231-2618  
-- Project: Data Science Analysis for Imtiaz Mall Electronics Section  
 
---- 
 
-For questions or further details, please contact the project team.
